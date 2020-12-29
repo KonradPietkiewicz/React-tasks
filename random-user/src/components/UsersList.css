@@ -1,0 +1,12 @@
+.users {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+.users li {
+    border-top: 2px solid gray;
+    padding: 20px;
+}
